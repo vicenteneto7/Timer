@@ -23,9 +23,12 @@
   "dependencies": {
     "@electron-toolkit/preload": "^3.0.0",
     "@electron-toolkit/utils": "^3.0.0",
+    "@hookform/resolvers": "^3.4.0",
     "electron-router-dom": "^1.0.5",
     "phosphor-react": "^1.4.1",
-    "react-router-dom": "^6.23.1"
+    "react-hook-form": "^7.51.4",
+    "react-router-dom": "^6.23.1",
+    "zod": "^3.23.8"
   },
   "devDependencies": {
     "@electron-toolkit/tsconfig": "^1.0.1",
